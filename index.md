@@ -9,7 +9,7 @@ title: SaTC Aspiring PI Workshop 2025
 
 ## About
 
-The NSF/SaTC Aspiring PI Workshop is a **two-day workshop (December 15-16, 2025)** designed for researchers interested in participating in NSF’s Security, Privacy, and Trust in Cyberspace (SaTC 2.0) program. Participation in the workshop is open to those with research interests in all sub-fields of security, privacy, and trustworthy computing who have never been funded by SaTC or any of its predecessor programs (e.g., Trustworthy Computing and/or Cyber Trust). The workshop will be held at the George Washington University (GWU) in Washington, D.C.
+The NSF/SaTC Aspiring PI Workshop is a **two-day workshop (December 15-16, 2025)** designed for researchers interested in participating in NSF’s Security, Privacy, and Trust in Cyberspace (SaTC 2.0) program. Participation in the workshop is open to those with research interests in all sub-fields of security, privacy, and trustworthy computing who have never been funded by SaTC or any of its predecessor programs (e.g., Trustworthy Computing and/or Cyber Trust). The workshop will be held at the George Washington University (GW) in Washington, D.C.
 
 The purpose of this workshop is to provide individuals who have never received a SaTC award with tips and tools for navigating the NSF’s proposal review process, with a focus on SaTC 2.0's goals, thereby increasing both the quality of their proposal submissions and, in turn, the number of proposals funded. To that end, workshop 
 participants will have opportunities to attend panels and sessions covering topics such as: 
