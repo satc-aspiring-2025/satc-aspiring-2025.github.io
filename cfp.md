@@ -10,9 +10,9 @@ The SaTC Aspiring PI workshop (**December 15-16**) is open to current and soon-t
 If invited to the workshop, you will also be asked to prepare a 2-3 page executive summary of a research project proposal (prior to arrival) that will be developed and expanded as part of the activities during the workshop. 
 
 
-**Please Note**: Submissions and executive summaries will not be made public, regardless of whether you are accepted to the workshop. These materials are requested by the organizers solely for the purpose of making invitation decisions and to enhance the workshop experience. Decisions will be made subject to availability of space. Though applicants of all levels of experience are encouraged to apply, should the number of received applications exceed the number of available spaces, priority will be given to junior (or soon-to-be junior) faculty members first. Decisions among similarly qualified applicants may be made randomly to allocate available spaces. 
+**Please Note**: Submissions and executive summaries will not be made public, regardless of whether you are accepted to the workshop. These materials are requested by the organizers solely for the purpose of making invitation decisions and to enhance the workshop experience. Decisions will be made subject to availability of space. Though applicants of all levels of experience are encouraged to apply, should the number of received applications exceed the number of available spaces, priority will be given to junior (or soon-to-be junior) faculty members first. 
 
-**If selected, there is significant support for reimbursing costs associated with participating in this workshop, including travel, meals, and other accommodations**.
+**If selected, travel costs associated with participating in this workshop, including travel, meals, and other accommodations, will be reimbursed**.
 
 <div class="reg-link">
 <a href="https://umdsurvey.umd.edu/jfe/form/SV_aXLSFDtuwQ0mMgm">

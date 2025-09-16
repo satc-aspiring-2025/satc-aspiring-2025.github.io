@@ -9,7 +9,32 @@ title: SaTC Aspiring PI Workshop 2025
 
 ## About
 
-The NSF/SaTC Aspiring PI Workshop is a **two-day workshop (December 15-16, 2025)** designed for researchers interested in participating in NSF’s Security, Privacy, and Trust in Cyberspace (SaTC 2.0) program. Participation in the workshop is open to those with research interests in all sub-fields of security, privacy, and trustworthy computing who have never been funded by SaTC or any of its predecessor programs (e.g., Trustworthy Computing and/or Cyber Trust). The workshop will be held at the George Washington University (GW) in Washington, D.C.
+The NSF/SaTC Aspiring PI Workshop is a **1.5-day workshop (December 15-16, 2025)** designed for researchers interested in participating in NSF’s [Security, Privacy, and Trust in Cyberspace (SaTC 2.0)](https://www.nsf.gov/funding/opportunities/satc-20-security-privacy-trust-cyberspace) program. Participation in the workshop is open to those with research interests in all sub-fields of security, privacy, and trustworthy computing who have never been funded by SaTC or any of its predecessor programs (e.g., Trustworthy Computing and/or Cyber Trust). The workshop will be held at the George Washington University (GW) in Washington, D.C.
+
+For a brief list of topic areas considered relevant, please see the keywords listed in the [SaTC 2.0 solicitation](https://www.nsf.gov/funding/opportunities/satc-20-security-privacy-trust-cyberspace/nsf24-504/solicitation#prep). 
+<!--- > Authentication and Access Control
+    Cryptography, Applied
+    Cryptography, Theoretical
+    Cyber-Physical Systems
+    Cybersecurity Education
+    Data Science, ML and AI
+    Formal Methods and Language-based Security
+    Hardware Security Architecture
+    Hardware Security Design
+    Human-Centric Computing
+    Information Integrity
+    Intrusion Detection
+    Mathematics and Statistics
+    Networking, Wired
+    Networking, Wireless
+    Privacy, Applied
+    Privacy, Theoretical
+    Social, Behavioral and Economic Sciences
+    Software
+    Systems
+    Transition to Practice
+-->
+
 
 The purpose of this workshop is to provide individuals who have never received a SaTC award with tips and tools for navigating the NSF’s proposal review process, with a focus on SaTC 2.0's goals, thereby increasing both the quality of their proposal submissions and, in turn, the number of proposals funded. To that end, workshop 
 participants will have opportunities to attend panels and sessions covering topics such as: 
@@ -21,7 +46,7 @@ participants will have opportunities to attend panels and sessions covering topi
 
 The workshop will also allow participants to receive feedback (via mock panels) on short proposal drafts, which participants will submit ahead of the workshop and revise during the workshop. Participants will also meet and network with mentors who have SaTC experience. 
 
-See the [Call For Participants](/cfp) for more details on participation. Importantly, if selected to participate, most (if not all) **travel expenses to Washington, DC and GW will be reimbursed.**
+See the [Call For Participants](/cfp) for more details on participation. Importantly, if selected to participate, **travel expenses to Washington, DC and GW will be reimbursed.**
 
 
 <div class="reg-link">
