@@ -63,7 +63,7 @@ See the [Call For Participants](/cfp) for more details on participation. Importa
 
 ## Draft Schedule
 
-Minor updates may occur.
+
 
 ### Monday December 15
 
