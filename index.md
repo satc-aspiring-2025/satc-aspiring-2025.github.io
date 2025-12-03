@@ -48,24 +48,26 @@ The workshop will also allow participants to receive feedback (via mock panels) 
 
 See the [Call For Participants](/cfp) for more details on participation. Importantly, if selected to participate, **travel expenses to Washington, DC and GW will be reimbursed.**
 
-
+<!--
 <div class="reg-link">
 <a href="https://umdsurvey.umd.edu/jfe/form/SV_aXLSFDtuwQ0mMgm">
 <button>Apply Now</button>
 </a>
 </div>
+-->
+*Applications are closed.*
 
 
 * * * 
 
 
-## Tentative Schedule
+## Draft Schedule
 
-The final schedule will be posted closer to the event.
+Minor updates may occur.
 
 ### Monday December 15
 
-*8 am to 8 pm including:*
+<!-- *8 am to 8 pm including:*
   * Breakfast
   * Opening remarks and introductions
   * Sessions and panels on proposal development
@@ -79,39 +81,41 @@ The final schedule will be posted closer to the event.
 *8 am to 1 pm including:* 
   * Mock panels to discuss proposal drafts and provide feedback
   * Final session or panel
-  * Box lunch and wrap-up discussions
+  * Box lunch and wrap-up discussions -->
+
+| Time | Activity |
+|:---- | :-------|
+| 8:30 am &nbsp; &nbsp; &nbsp; | Arrival, registration, breakfast                    |
+| 9:00 am | Opening remarks, introductions, icebreakers         |
+| 9:45 am  | What is SaTC, what's new in 2.0? |
+| 10:15 am | Questions we ask ourselves when applying for funding       |
+| 10:45 am | Coffee Break                                         |
+| 11:15 am | Activity: Elevator pitches       |
+| 12:00 am | Proposal design: strategies, norms, tips and tricks |
+| 12:45 pm | Working lunch  |
+| 2:00 pm  | Interactive work sessions, small group meetings |
+| 3:30 pm  | Coffee break                                         |
+| 4:00 pm  | The NSF review process  |
+| 4:45 pm  | Interactive work session continues |
+| 6:00 pm  | Wrapup / outbrief day 1 |
+| 6:30 pm  | Dinner and professional networking                        |
+| 8:30 pm  | Adjourn                                              |
+
+<br>
 
 
-<!---
-|         | Monday, December 15                                     |
-|---------|------------------------------------------------------|
-| 8:30am  | Arrival/Registration/Breakfast                       |
-| 9:00am  | Opening remarks, introductions,          |
-| 10:15am | Introductions of Participants and Ice breakers       |
-| 10:45am | Coffee Break                                         |
-| 11:00am | Panel 1 (Topic: Research Project Development)        |
-| 12:15pm | (Working Lunch w/NSF and Mentor one-on-one meetings) |
-| 2:15pm  | Panel 2 (Topic: Panel Review Process)                |
-| 3:45pm  | Coffee Break                                         |
-| 4:15pm  | BOF Sessions                                         |
-| 6:00pm  | Closing Remarks                                      |
-| 6:30pm  | Buffet Dinner and Networking                         |
-| 8:30pm  | Adjourn                                              |
+### Tuesday December 16
+
+| Time | Activity |
+|:---- | :-------|
+| 8:00 am | Arrival, breakfast             |
+| 8:30 am  | Opening remarks, instructions                 |
+| 8:45 am  | Mock panels, session 1                  |
+| 10:15 am | Coffee Break                    |
+| 10:45 am | Mock panels, session 2                   |
+| 12:00 pm | Wrap up, box lunches |
 
 
-
-
-
-|         | Friday, May 5                   |
-|---------|---------------------------------|
-| 8:00am  | Arrival/Breakfast               |
-| 8:30am  | Opening Remarks                 |
-| 9:00am  | Mock Panels 1                   |
-| 10:30am | Coffee Break                    |
-| 11:00am | Mock Panels 2                   |
-| 12:30pm | Final Remarks/Box Lunches to-go |
-
--->
 
  
 * * * 
@@ -121,23 +125,23 @@ The final schedule will be posted closer to the event.
 
 All events will take place at the George Washington University (GW) in Science and Engineering Hall (SEH), 800 22nd St NW, Washington, DC 20052. 
 
-Directions and further information about travel arrangements will be provided to invitees. 
+Directions by metro and driving are provided [here](https://www.seas.gwu.edu/directions-campus).
 
-<!-- Directions by metro and driving are provided [here](https://www.seas.gwu.edu/directions-campus).
+When you arrive at SEH, head down the stairs/elevator one level to B1. We will be in SEH B1220, B1270 and the adjacent "Green Wall" space. 
 
-When you arrive at SEH, head down the stairs/elevator one level to B1. We will be in SEH B1220, B1270 and the "Green Wall" space. (See [Lehman Auditorium](https://seascf.seas.gwu.edu/lehman-auditorium) for more details).
-
-For travel and hotel, arrangements, please refer to [travel details page](/travel) and reach out to [satc_aspire_pi@gwu_edu](mailto:satc_aspire_pi@gwu.edu) for both booking and reimbursement questions.
+Please note that SEH is nominally a tap-access only building. You will likely be able to follow someone in. If you find yourself stuck outside, please email [satc_aspire_pi@gwu_edu](mailto:satc_aspire_pi@gwu.edu) and someone will come let you in.
 
 
-**Please note that SEH is a tap-access only building with low security, but it is very active in-and-out. You shold be able to get in following someone else in. If you find yourself stuck outside, please email [satc_aspire_pi@gwu_edu](mailto:satc_aspire_pi@gwu.edu) and someone will come let you in.**
+### Hotel Information 
 
-## Travel & Accommodations 
-The workshop will take place entirely at George Washington University’s School of Engineering located at 800 22nd St. NW, Washington, DC 20052. 
+Participants in the room block will be staying at:
 
-There is significant support available to cover the costs associated with travel (including airfare), meals, hotel accommodations, and transportation to and from the event space to encourage participation. More information on hotel accommodations will be provided in the coming weeks. 
+[ARC HOTEL D.C.](https://www.archoteldc.com/) <br>
+824 New Hampshire Ave NW <br>
+Washington, D.C. 20037<br>
 
--->
+The hotel is a short, 5-minute walk to SEH 
+
 
 * * * 
 
