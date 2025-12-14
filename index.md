@@ -94,9 +94,11 @@ See the [Call For Participants](/cfp) for more details on participation. Importa
 | 12:00 am | Proposal design: strategies, norms, tips and tricks |
 | 12:45 pm | Working lunch  |
 | 2:00 pm  | Interactive work sessions, small group meetings |
+|          | (Blue A groups meet at 2:30, Blue B groups meet at 3:00) |
 | 3:30 pm  | Coffee break                                         |
 | 4:00 pm  | The NSF review process  |
 | 4:45 pm  | Interactive work session continues |
+|          | (Yellow A groups meet at 4:45, Yellow B groups meet at 5:15) |
 | 6:00 pm  | Wrapup / outbrief day 1 |
 | 6:30 pm  | Dinner and professional networking                        |
 | 8:30 pm  | Adjourn                                              |
@@ -111,7 +113,7 @@ See the [Call For Participants](/cfp) for more details on participation. Importa
 | 8:00 am | Arrival, breakfast             |
 | 8:30 am  | Opening remarks, instructions                 |
 | 8:45 am  | Mock panels, session 1                  |
-| 10:15 am | Coffee Break                    |
+| 10:30 am | Coffee Break                    |
 | 10:45 am | Mock panels, session 2                   |
 | 12:00 pm | Wrap up, box lunches |
 
@@ -140,7 +142,7 @@ Participants in the room block will be staying at:
 824 New Hampshire Ave NW <br>
 Washington, D.C. 20037<br>
 
-The hotel is a short, 5-minute walk to SEH 
+The hotel is a short, 5-minute walk to SEH. We recommend that participants who are flying into DCA airport take the metro from the aiport to the hotel. 
 
 
 * * * 
